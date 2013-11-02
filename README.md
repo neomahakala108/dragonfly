@@ -1,4 +1,4 @@
 dragonfly
 =========
 
-http://intelligent-devices.blogspot.com/
+http://dragonfly-algorithm.blogspot.com/
